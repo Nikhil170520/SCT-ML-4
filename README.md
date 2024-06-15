@@ -2,7 +2,7 @@
 ## ID :- SCT/JUN24/0443
 ## DOMAIN :- MACHINE LEARNING
 ## DURATION :- JUNE 1 - JUNE 30
-## DESCRIPTION :- HAND GESTURE
+## DESCRIPTION :- HAND GESTURE RECOGNITION
 Hand gesture recognition is a technology that interprets human hand movements and translates them into commands or instructions for a computer system. It's like a digital handshake, allowing us to interact with technology in a more intuitive and natural way.
 
 # Here's how it works:
